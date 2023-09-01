@@ -76,7 +76,7 @@ end
 
 gem "foreman", "~> 0.87.2"
 
-gem "view_component", "~> 3.1"
+gem "view_component"
 
 gem "devise", "~> 4.9"
 
